@@ -1,5 +1,5 @@
 
-# Realtime Chat Application 
+# Amazon Clone
 
 
 ### Objective
